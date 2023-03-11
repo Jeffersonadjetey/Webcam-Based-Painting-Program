@@ -1,1 +1,1 @@
-# Collaborative-Graphical-Editor
+# webcam-based-painting-program
